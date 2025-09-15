@@ -1,6 +1,5 @@
-✨ GitHub Bio Suggestion
+👋 Hi, I’m Rocky Malobago
 
--👋 Hi, I’m Rocky Malobago
 -💻 Back-End & Front-End Developer | BSIT Student @ UEP
 -🚀 Passionate about building mobile apps, web systems, and delivery platforms
 -📱 Published a food delivery app with 1K+ downloads
